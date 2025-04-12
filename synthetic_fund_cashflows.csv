@@ -1,0 +1,25 @@
+Fund_ID,Quarter,Vintage_Year,Committed_Capital,Capital_Called,Distribution,NAV,Fund_Age_Qtrs,Strategy,Geography
+Fund_A,1,2015,100,5,0,95,1,Buyout,North America
+Fund_A,2,2015,100,10,0,90,2,Buyout,North America
+Fund_A,3,2015,100,15,2,88,3,Buyout,North America
+Fund_A,4,2015,100,20,4,85,4,Buyout,North America
+Fund_A,5,2015,100,18,6,80,5,Buyout,North America
+Fund_A,6,2015,100,22,10,75,6,Buyout,North America
+Fund_A,7,2015,100,25,13,70,7,Buyout,North America
+Fund_A,8,2015,100,27,15,67,8,Buyout,North America
+Fund_A,9,2015,100,30,18,60,9,Buyout,North America
+Fund_A,10,2015,100,32,20,55,10,Buyout,North America
+Fund_A,11,2015,100,33,23,50,11,Buyout,North America
+Fund_A,12,2015,100,35,26,45,12,Buyout,North America
+Fund_B,1,2016,100,4,0,96,1,Growth,Europe
+Fund_B,2,2016,100,8,1,92,2,Growth,Europe
+Fund_B,3,2016,100,12,3,89,3,Growth,Europe
+Fund_B,4,2016,100,16,5,84,4,Growth,Europe
+Fund_B,5,2016,100,18,8,80,5,Growth,Europe
+Fund_B,6,2016,100,19,10,76,6,Growth,Europe
+Fund_B,7,2016,100,21,12,72,7,Growth,Europe
+Fund_B,8,2016,100,22,14,68,8,Growth,Europe
+Fund_B,9,2016,100,24,17,64,9,Growth,Europe
+Fund_B,10,2016,100,26,19,60,10,Growth,Europe
+Fund_B,11,2016,100,28,21,55,11,Growth,Europe
+Fund_B,12,2016,100,30,25,50,12,Growth,Europe
